@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=95&pause=90&color=F38181&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub;I'm+kartik+patel+;JavaScript+%26+Node.js;Tech+Enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=95&pause=90&color=F38181&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub;I'm+kartik+patel+;java+%26+springboot;JavaScript+%26+Node.js;Tech+Enthusiast;)](https://git.io/typing-svg)
 
 
 
@@ -36,6 +36,10 @@
       <br>JAVA
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Vite" title="SpringBoot" />
+      <br>Spring-boot
+    </td>
+    <td align="center" width="90">
     <img src = "https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="javascript" title="javascript"/>
       <br>Javascript
     </td>
@@ -50,6 +54,10 @@
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" title="Express.js" />
       <br>Express.js
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" title="MongoDB" />
+      <br>MongoDB
     </td>
    </tr> 
    <tr>
@@ -73,6 +81,14 @@
     <img src = "https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" title="postman"/>
       <br>Postman
     </td>
+    <td align="center" width="90">
+    <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="45" height="45" alt="postman" title="postman"/>
+      <br>Netlify
+    </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=idea" width="45" height="45" alt="idea" title="IntellijIdea"/>
+      <br>Intellij
+    </td>
    </tr>
     
     
@@ -83,9 +99,18 @@
 <h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40"> Github Stats</h2>
 </div>
 
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kartikMpatel-Git-Hub&show_icons=true&theme=radical" alt="kartikMpatel-Git-Hub's github stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikMpatel-Git-Hub&theme=radical" alt="kartikMpatel-Git-Hub's github streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kartikMpatel-Git-Hub&show_icons=true&theme=transparent" />
+</div>
+
+<div align = "center">
+<h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40">Contributions</h2>
+</div>
+
+
+<div align="center">
+<img src="profile-night-rainbow.svg" width="600" alt="Netlify"/>
 </div>
 
 <br>
@@ -93,4 +118,4 @@
   <img src="https://komarev.com/ghpvc/?username=kartikMpatel-Git-Hub&color=orange"/>
 </div>
 
-⭐️ From [Kevals15](https://github.com/kartikMpatel-Git-Hub)
+⭐️ From [kartik](https://github.com/kartikMpatel-Git-Hub)
