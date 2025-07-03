@@ -104,14 +104,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kartikMpatel-Git-Hub&show_icons=true&theme=transparent" />
 </div>
 
-<div align = "center">
+<!-- <div align = "center">
 <h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40">Contributions</h2>
-</div>
+</div> -->
 
-
-<div align="center">
-<img src="profile-night-rainbow.svg" width="600" alt="Netlify"/>
-</div>
 
 <br>
 <div align="center">
