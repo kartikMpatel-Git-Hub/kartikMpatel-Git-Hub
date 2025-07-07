@@ -101,7 +101,8 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kartikMpatel-Git-Hub&show_icons=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kartikMpatel-Git-Hub&show_icons=true&theme=radical" alt="kartik's github stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikMpatel-Git-Hub&theme=radical" alt="kartik's github streak"/>
 </div>
 
 <!-- <div align = "center">
